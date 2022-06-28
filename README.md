@@ -2,7 +2,7 @@
 
 Hola
 
-El martes 28 de junio de 09 a 12 AM en el aula 14.1.4 se realiza la convocatoria extraordinaria que se compone de una parte teórica y una práctica.
+*El martes 28 de junio de 09 a 12 AM en el aula 14.1.4 se realiza la convocatoria extraordinaria que se compone de una parte teórica y una práctica.*
 
 La parte teórica se compone de dos secciones.
 
